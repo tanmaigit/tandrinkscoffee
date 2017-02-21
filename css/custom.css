@@ -1,0 +1,155 @@
+.site-content{
+	padding-bottom: 0 !important;
+}
+.post div.entry-meta .byline, .post .cat-links{
+	display: none !important;
+}
+.brandontext_bold-font{
+	font-family: 'brandontext_bold' !important;
+}
+.full-width{
+	width: 100%;
+}
+.widget_testimonial-widget ul li .client-pic img {
+    border-radius: 100%;
+}
+.site-info {
+    /*padding: 0 !important;*/
+	text-align: center !important;
+	color: #272727 !important;
+	font-weight: bold;
+}
+.no-logged-title{
+	margin-top: -6px !important;
+	padding-right:5px;
+	float: right;
+}
+.logged-title{
+	margin-top: -25px !important;
+	padding-right:5px; 
+	float: right;
+}
+.non-padding-left{
+	padding-left: 0 !important;
+}; 
+.none-top{
+	margin-top: 0 !important;
+}
+.none-bottom{
+	margin-bottom: 0 !important;
+}
+.h1-title{
+	font-size: 4.6rem !important;
+	color: #3498db !important;
+	margin-top: -5px;
+}
+.site-header{
+	/*background-color: #D7D7D7;*/
+}
+.main-navigation.sticky-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; 
+}
+.site-branding {
+    height: 86px !important;
+}
+.width20p{
+	width: 20% !important;
+}
+.width80p{
+	width: 80% !important;
+}
+.header-site-branding-section #header-logo-position{
+	float: left;
+	width: 20%;
+	padding-left: 12px;
+	padding-right: 8px;
+}
+.header-site-branding-section #header-description-position{
+	float: left;
+	padding-left: 12px;
+	/*width: 80%;*/
+}
+.site-description{
+	font-size: 2rem !important;
+	margin-top: -15px;
+}
+.contact-info-item .contact-text {
+    display: block;
+    float: left;
+    width: 130px;
+    font-size: 14px;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 2px;
+    position: relative;
+	width: 30px;
+}
+.contact-info-item .contact-value {
+    margin-left: 35px;
+}
+.custom-ul{
+	text-align: left !important;
+    margin-left: 30px !important;
+}
+.custom-ul-li{
+	float: none !important;
+    list-style-type: disc !important;
+	border: 0 !important;
+	padding-left: 5px !important;
+	color: currentColor !important;
+}
+#service-tabs ul {
+	margin-bottom: 30px !important;
+}
+
+#service-tabs .ui-tabs-panel .tab-icon{
+	padding: 0 !important;
+}
+
+#service-tabs .ui-tabs-panel {
+    min-height: 200px !important;
+}
+
+.div70p {
+    width: 70% !important;
+}
+
+.post-thump-section img{
+	max-width: 270px !important;
+	max-height: 270px !important;
+}
+
+.top-right {
+    margin-top: 0px !important;
+}
+
+.bottom05em{
+	margin-bottom: 0.5em !important;
+}
+.tabs-title{
+	margin-bottom: 0.7em !important;
+}
+.non-margin {
+    margin: 0 !important;
+}
+
+a.login-title {
+    color: #FFFFFF !important;
+    padding: 6px 20px;
+    background-color: #272727 !important;
+}
+
+a.login-title:hover {
+    background-color: #3498db !important;
+	padding: 6px 28px;
+}
+
+#pgc-w575fafdd23d37-0-1{
+	margin-top: -10px;
+}
+#pgc-w575fb1c8d48eb-0-0 , #pgc-w575fb1c8d48eb-0-1 , #pgc-w575fb1c8d48eb-0-2 , #pgc-w575fb1c8d48eb-0-3 { width:25% } #pg-w575fb1c8d48eb-0 .panel-grid-cell { float:left } #pl-w575fb1c8d48eb .panel-grid-cell .so-panel { margin-bottom:30px } #pl-w575fb1c8d48eb .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-w575fb1c8d48eb-0 { margin-left:-15px;margin-right:-15px } #pg-w575fb1c8d48eb-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-w575fb1c8d48eb-0 .panel-grid-cell { float:none;width:auto } #pgc-w575fb1c8d48eb-0-0 , #pgc-w575fb1c8d48eb-0-1 , #pgc-w575fb1c8d48eb-0-2 { margin-bottom:30px } #pl-w575fb1c8d48eb .panel-grid { margin-left:0;margin-right:0 } #pl-w575fb1c8d48eb .panel-grid-cell { padding:0 }  } /* Layout w575fafdd23d37 */ #pgc-w575fafdd23d37-0-0 , #pgc-w575fafdd23d37-0-1 { width:50% } #pg-w575fafdd23d37-0 .panel-grid-cell { float:left } #pl-w575fafdd23d37 .panel-grid-cell .so-panel { margin-bottom:30px } #pl-w575fafdd23d37 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-w575fafdd23d37-0 { margin-left:-15px;margin-right:-15px } #pg-w575fafdd23d37-0 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-w575fafdd23d37-0 .panel-grid-cell { float:none;width:auto } #pgc-w575fafdd23d37-0-0 { margin-bottom:30px } #pl-w575fafdd23d37 .panel-grid { margin-left:0;margin-right:0 } #pl-w575fafdd23d37 .panel-grid-cell { padding:0 }  }
