@@ -1,7 +1,10 @@
 li.purpose{
-	background-color: #3498db;
+	background-color: #34495E;
 	padding-top: 14px;
 	padding-bottom: 14px;
+}
+li.ui-tabs-active{
+	background-color: #3498db !important;
 }
 .site-content{
 	padding-bottom: 0 !important;
