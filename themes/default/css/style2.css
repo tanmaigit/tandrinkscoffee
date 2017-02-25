@@ -1183,12 +1183,15 @@ h6.tright {
   padding: 20px 0; }
 
 .footer-top {
-  background: #272727;
+  background: #222;
   padding: 25px 0 15px; }
 
 .footer-bottom {
-  background-color: #D7D7D7;
-  border-top: 1px solid #F0F2F3; }
+background: #292929;
+  border-top: solid 1px rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.4);
+  font-size: 12px;
+  }
   .footer-bottom a {
     color: #3498db; }
     .footer-bottom a:hover {

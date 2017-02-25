@@ -16,8 +16,14 @@
 .site-info {
     /*padding: 0 !important;*/
 	text-align: center !important;
-	color: #272727 !important;
+	/*color: #272727;*/
+	color: rgba(255,255,255,0.4);
 	font-weight: bold;
+}
+.copyright-text{
+	position: absolute;
+	top: 29px;
+	margin-left: 20px;
 }
 .no-logged-title{
 	margin-top: -6px !important;
