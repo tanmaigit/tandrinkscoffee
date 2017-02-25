@@ -15,7 +15,7 @@
 }
 .site-info {
     /*padding: 0 !important;*/
-	text-align: center !important;
+	/*text-align: center !important;*/
 	/*color: #272727;*/
 	color: rgba(255,255,255,0.4);
 	font-weight: bold;
@@ -24,6 +24,8 @@
 	position: absolute;
 	top: 29px;
 	margin-left: 20px;
+	font-size: 110%;
+	font-weight: initial;
 }
 .no-logged-title{
 	margin-top: -6px !important;
