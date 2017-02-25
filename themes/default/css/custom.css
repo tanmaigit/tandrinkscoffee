@@ -3,7 +3,7 @@ li.purpose{
 	padding-top: 14px;
 	padding-bottom: 14px;
 }
-li.purpose.ui-tabs-active{
+li.purpose:hover, li.purpose.ui-tabs-active{
 	background-color: #3498db !important;
 }
 .site-content{
